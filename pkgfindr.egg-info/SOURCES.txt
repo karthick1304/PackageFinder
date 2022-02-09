@@ -1,0 +1,7 @@
+setup.py
+pkgfindr.egg-info/PKG-INFO
+pkgfindr.egg-info/SOURCES.txt
+pkgfindr.egg-info/dependency_links.txt
+pkgfindr.egg-info/entry_points.txt
+pkgfindr.egg-info/requires.txt
+pkgfindr.egg-info/top_level.txt

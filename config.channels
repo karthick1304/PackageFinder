@@ -1,0 +1,11 @@
+[conda-forge]
+name = conda-forge
+noarchurl = https://conda.anaconda.org/conda-forge/noarch/repodata.json
+winurl = https://conda.anaconda.org/conda-forge/win-64/repodata.json
+linuxurl = https://conda.anaconda.org/conda-forge/linux-64/repodata.json
+
+[pytorch]
+name = pytorch
+noarchurl = https://conda.anaconda.org/pytorch/noarch/repodata.json
+winurl = https://conda.anaconda.org/pytorch/win-64/repodata.json
+linuxurl = https://conda.anaconda.org/pytorch/linux-64/repodata.json
